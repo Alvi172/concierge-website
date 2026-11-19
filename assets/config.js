@@ -1,0 +1,1 @@
+window.CONCIERGE_CONFIG = {"enquiryFormUrl": "https://docs.google.com/forms/d/e/1FAIpQLScFui_TV-D5IBs_F5iuFcP7Ov744C8q9ZnuXgOPhTcZH_nfWw/viewform", "signupFormUrl": "https://docs.google.com/forms/d/e/1FAIpQLScFui_TV-D5IBs_F5iuFcP7Ov744C8q9ZnuXgOPhTcZH_nfWw/viewform"};
